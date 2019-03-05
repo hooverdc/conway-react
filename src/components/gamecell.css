@@ -1,0 +1,7 @@
+.grid__cell {
+    background: #AAA;
+}
+
+.grid__cell.alive {
+    background: #000;
+}
